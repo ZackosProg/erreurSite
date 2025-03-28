@@ -1,0 +1,7 @@
+name = "worker-name"
+compatibility_date = "2025-03-28"
+
+[[build.uploads]]
+  main = "./index.html"
+  include = ["index.html"]
+  # Si vous avez d'autres fichiers statiques à déployer, vous pouvez ajouter plus de fichiers ici
